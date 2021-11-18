@@ -1,0 +1,2 @@
+java DictionaryProgram
+pause
